@@ -1,0 +1,167 @@
+.aa{
+    background-color: purple;
+    height: 120vh;
+    width: 100%;
+    margin-bottom: 80px;
+}
+.cld1,.cld2{
+    height: 20vh;
+}
+.cc{
+    
+    display: flex;
+    justify-content: center;
+}
+
+.poetsen-one-regular {
+    font-family: "Poetsen One", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size:50px;
+  }
+  .name{
+    color: antiquewhite;
+    font-size: 50px;
+  
+}
+  
+#img1{
+    
+    position: relative;
+    left: 150vh;
+    top:10vh;
+}
+#img2{
+    position: relative;
+    left: 20vh;
+    top:10vh;
+}
+.mountain{
+    display: flex;
+    justify-content: center;
+    height: 140px;
+    margin-bottom: 200px;
+
+}
+
+#mypic{
+    margin-top: 40px;
+    border-radius: 50%;
+    height: 200px;
+}
+.myimg{
+    margin-top: 130px;
+    margin-bottom: 30px;
+    display: flex;
+    justify-content: center;
+}
+.heading{
+    display:flex;
+    justify-content: center;
+    margin-bottom: 30px;
+}
+.hed{
+    color:purple;
+}
+#about{
+    display: flex;
+    justify-content: center;
+}
+.about{
+    font-size: 25px;
+    width: 100;
+    text-align: center;
+}
+#skills, .skillss{
+    margin-top: 140px;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 30px;
+}
+#skills{
+    margin-bottom: 60px;
+}
+.skills,.skillss{
+    color:purple;
+}
+.skills{
+    margin-bottom: 50px;
+}
+#skillss{
+    margin-top: 200px;
+}
+.flx{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 100px;
+
+}
+.gip{
+    float: left;
+    margin-right: 20px;
+}
+.dd,.ee{
+    margin-bottom: 100px;
+    width: 100vh;
+}
+.ee{
+    margin-bottom: 100px;
+}
+.web{
+    color:purple;
+    font-size: 30px;
+}
+.pp{
+    font-size: 20px;
+    margin-bottom: 130px;
+}
+.pn{
+    display: flex;
+    justify-content: center;
+    font-size: 30px;
+    width: 600px;
+    text-align: center;
+    margin-top: 80px;
+    margin-bottom: 50px;
+}
+.btn-purple{
+    background-color: purple;
+    color: white;
+
+}
+.btn{
+    display: flex;
+    justify-content: center;
+}
+.foot{
+    background-color: purple;
+    height: 200px;
+}
+.nn{
+   
+    height: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.kk{
+    flex-basis: 200px;
+}
+.oo{
+    color: aliceblue;
+}
+.ap{
+    display: flex;
+    justify-content: center;
+}
+.ll{
+    background-color: purple;
+}
+.gg{
+    display: flex;
+    justify-content: center;
+    color:aliceblue;
+    font-size: 15px;
+}
+
